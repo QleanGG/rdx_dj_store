@@ -41,7 +41,6 @@ INSTALLED_APPS = [
     'practice_app',
     'corsheaders',
     'rest_framework',
-    'pillow',
 ]
 
 MIDDLEWARE = [
